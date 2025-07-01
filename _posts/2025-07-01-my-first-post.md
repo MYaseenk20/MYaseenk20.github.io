@@ -6,4 +6,4 @@ author: MUhammad Yaseen Taha
 ---
 
 ## My first CTF
-I’ve been learning ethical hacking for almost three months now, and the journey so far has been packed with late nights, terminal windows, and “aha!” moments. This post isn’t about my very first CTF — I’ve done a few before — but rather a detailed breakdown of a recent one I tackled.
+I’ve been learning ethical hacking for almost three months now, and the journey so far has been packed with late nights, terminal, and “aha!” moments. This post isn’t about my very first CTF — I’ve done a few before — but rather a detailed breakdown of a recent one I tackled.
